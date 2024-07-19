@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthSarnobat
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python and java
+-    I’m interested in ML , DL and AI
+- 🌱 I’m currently learning DL
 
 
 
