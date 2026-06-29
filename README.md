@@ -39,12 +39,12 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,firebase)](https://skillicons.dev)
 
 ![LangChain](https://img.shields.io/badge/LangChain-2E8B57?logo=chainlink&logoColor=white&style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
-![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)
 
 </div>
 
