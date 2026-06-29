@@ -11,10 +11,14 @@
 
 ## 🧠 About Me
 
-🏠 **Location**: Kolhapur, Maharashtra, India
+🏠 **Location**: Maharashtra, India
+
 🤖 **Focus**: Building AI Agent systems, Multi-Agent LLM Pipelines & GenAI applications
+
 🏆 **Kaggle**: Competing in ML & data science challenges
+
 🔍 **Currently**: Exploring AI Agents, tool-calling architectures & LLM orchestration
+
 🎯 **Goal**: Building real-world AI systems that go beyond tutorials
 
 ---
