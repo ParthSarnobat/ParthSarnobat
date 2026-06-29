@@ -3,7 +3,7 @@
 
 # Hey, I'm Parth Sarnobat 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=ML+Engineer+%7C+AI+Agent+Builder;Multi-Agent+LLM+Systems+%7C+GenAI;Kaggle+Expert+%F0%9F%8F%86+%7C+Competition+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+AI+Agent+Builder;Multi-Agent+LLM+Systems+%7C+GenAI;Kaggle+%F0%9F%8F%86+%7C+Competition+ML)](https://git.io/typing-svg)
 
 </div>
 
